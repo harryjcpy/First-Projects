@@ -24,7 +24,7 @@ To run this project locally, you need a web browser (like Chrome, Firefox, etc.)
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/harryjcpy/heart-trail-animation.git
+    git clone https://github.com/harryjcpy/Heart-Trail-Animation.git
     ```
 2. **Navigate to the project directory:**
     ```bash
